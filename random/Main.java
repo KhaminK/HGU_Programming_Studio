@@ -8,5 +8,8 @@ class Main{
         s.nextLine();
         //Get one intger
         s.nextInt();
+
+        //math
+        Math.abs(-50); //50
     }
 }
