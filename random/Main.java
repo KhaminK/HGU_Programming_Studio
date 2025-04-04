@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * Hamin's java summary notes. 
+ */
 class Main{
     public static void main(String[] args) {
         //Input
