@@ -14,6 +14,7 @@ class Main{
 
         //math
         Math.abs(-50); //50
+        Math.exp(0);
 
         //trim
         String string1 = "  Hello  ";
