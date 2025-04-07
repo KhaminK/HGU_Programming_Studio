@@ -17,7 +17,9 @@ class Main{
         Math.exp(0);
 
         //trim
-        String string1 = "  Hello  ";
+        String string1 = "  Hello World!  ";
         string1 = string1.trim();
+        String[] string2 = string1.split(" ");
+
     }
 }
