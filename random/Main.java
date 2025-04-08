@@ -20,6 +20,7 @@ class Main{
         String string1 = "  Hello World!  ";
         string1 = string1.trim();
         String[] string2 = string1.split(" ");
+        //we will discuss regex later
 
     }
 }
