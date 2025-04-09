@@ -15,12 +15,14 @@ class Main{
         //math
         Math.abs(-50); //50
         Math.exp(0);
+        Math.max(50d, 40d);
 
         //trim
         String string1 = "  Hello World!  ";
         string1 = string1.trim();
         String[] string2 = string1.split(" ");
         //we will discuss regex later
+
 
     }
 }
