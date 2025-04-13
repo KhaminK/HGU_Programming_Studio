@@ -20,8 +20,7 @@ Group,MemberID,MemberName,Friends,Subjects,Reports,Times
 26,88,Edward Martinez,Paul Thomas,"Discrete Mathematics, Computer Architecture and Organization, 실전프로젝트1",12,1354
 26,96,Charles Wilson,,"컴퓨터구조, Discrete Mathematics, Computer Vision",12,1354
 26,149,Paul Thomas,Edward Martinez,"Discrete Mathematics, 컴퓨터구조, 실전프로젝트1",12,1354
-34,139,James Smith,"Steven Thompson, Edward Martinez, Joseph Garcia","실전프로젝트1, Computer Architecture and Organization, Computer Vision",11,2552
-34,144,James Smith,Steven Thompson,"Computer Vision, Programming Language Theory, Discrete Mathematics",11,2552
+kn 34,144,James Smith,Steven Thompson,"Computer Vision, Programming Language Theory, Discrete Mathematics",11,2552
 34,156,Edward Martinez,"Joseph Garcia, James Smith, Steven Thompson","Computer Architecture and Organization, 실전프로젝트1, Computer Vision",11,2552
 34,157,Steven Thompson,"Edward Martinez, James Smith, James Smith","Computer Vision, 실전프로젝트1, 웹 서비스 개발",11,2552
 34,167,John Johnson,,,11,2552

@@ -11,6 +11,7 @@ class Main{
         s.nextLine();
         //Get one intger
         s.nextInt();
+        s.nextBoolean();
 
         //math
         Math.abs(-50); //50
