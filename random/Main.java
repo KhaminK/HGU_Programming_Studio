@@ -13,6 +13,8 @@ class Main{
         s.nextInt();
         s.nextBoolean();
 
+        Integer integer = 5;
+
         //math
         Math.abs(-50); //50
         Math.exp(0);
