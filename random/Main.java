@@ -19,6 +19,7 @@ class Main{
         Math.abs(-50); //50
         Math.exp(0);
         Math.max(50d, 40d);
+        Math.min(50, 100);;
 
         //trim
         String string1 = "  Hello World!  ";
