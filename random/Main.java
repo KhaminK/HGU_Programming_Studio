@@ -20,7 +20,9 @@ class Main{
         Math.exp(0);
         Math.max(50d, 40d);
         Math.min(50, 100);;
-
+        //unboxing
+        int numofInteger = integer;
+        
         //trim
         String string1 = "  Hello World!  ";
         string1 = string1.trim();
