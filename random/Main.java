@@ -15,6 +15,7 @@ class Main{
         s.nextBoolean();
 
         Integer integer = 5;
+        Double DDouble = 5.0;
 
         //math
         Math.abs(-50); //50
@@ -23,6 +24,7 @@ class Main{
         Math.min(50, 100);;
         //unboxing
         int numofInteger = integer;
+        double dDouble = DDouble;
         
         //trim
         String string1 = "  Hello World!  ";
