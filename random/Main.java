@@ -1,3 +1,4 @@
+import java.io.PrintStream;
 import java.util.Scanner;
 
 /**
@@ -22,6 +23,7 @@ class Main{
         Math.exp(0);
         Math.max(50d, 40d);
         Math.min(50, 100);;
+        Math.sqrt(25);
         //unboxing
         int numofInteger = integer;
         double dDouble = DDouble;
@@ -31,6 +33,7 @@ class Main{
         string1 = string1.trim();
         String[] string2 = string1.split(" ");
         //we will discuss regex later
+        
 
 
     }
