@@ -14,6 +14,7 @@ class Main{
         //Get one intger
         s.nextInt();
         s.nextBoolean();
+        s.nextFloat();
 
         Integer integer = 5;
         Double DDouble = 5.0;
